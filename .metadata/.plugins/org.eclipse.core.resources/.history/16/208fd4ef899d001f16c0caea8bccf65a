@@ -1,0 +1,13 @@
+package com.finance.registry;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FinwizEurekaRegistryServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FinwizEurekaRegistryServiceApplication.class, args);
+	}
+
+}

@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=D\:\\FinWiz Backend\\EurekaRegistryService\\.git;D\:\\FinWiz Backend\\cloudgateway\\.git;
+GitRepositoriesView.GitDirectories.relative=EurekaRegistryService\\.git;cloudgateway\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
